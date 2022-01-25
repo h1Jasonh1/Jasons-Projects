@@ -1,0 +1,165 @@
+#image{
+  background-color:rgb(0, 0, 0)
+      }
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 130px;
+  width: 150px;
+  border-style: solid;
+  border-width: 3px;
+  border-left-width: 3px;
+  border-right-width: 3px;
+  border-top-width: 3px;
+  border-bottom-width: 3px;
+  border-color: #009b93;
+  border-radius: 50%;
+       } 
+      
+header{
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  color: white;
+  font-family: sans-serif;
+  padding-top: 5px;
+  padding-bottom: 5px;
+      }      
+
+#menu{
+  background-color:#009b93;
+  width: 15%;
+  color: rgb(0, 0, 0);
+  font-size: 110%;
+  font-family: sans-serif;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+         }
+
+.menu-title{
+  color: #ffffff;
+           }
+
+.menu-list{
+  list-style: none;
+  padding-left: 3px;
+          }
+
+#education-main{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #ffffff;
+  color: #000000;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  border-style: solid;
+  border-width: 3px;
+  border-left-width: 5px;
+  border-right-width: 5px;
+  border-top-width: 3px;
+  border-bottom-width: 2px;
+  border-color: #009b93;
+  border-radius: 4px; 
+               }
+
+.education-title{
+  color: #000000;
+                }
+
+.qualification-title{
+  color: #000000;
+                    }
+
+#experience-main{
+  font-family: sans-serif;
+  color: rgb(0, 0, 0);
+  font-size:110%;
+  background-color: #ffffff;
+  padding-left: 20px;
+  border-style: solid;
+  border-width: 3px;
+  border-left-width: 5px;
+  border-right-width: 5px;
+  border-top-width: 1px;
+  border-bottom-width: 2px;
+  border-color: #009b93;
+  border-radius: 4px;  
+           }
+
+.experience-title{
+  color: #000000;
+                 }
+
+.job1-title{
+  color: #000000;
+           }
+
+.job2-title{
+  color: #000000;
+           }
+
+#skills-main{
+  font-family: sans-serif;
+  font-size:110%;
+  background-color: #ffffff;
+  color: #000000;
+  padding-left: 20px;
+  border-style: solid;
+  border-width: 3px;
+  border-left-width: 5px;
+  border-right-width: 5px;
+  border-top-width: 1px;
+  border-bottom-width: 3px;
+  border-color: #009b93;
+  border-radius: 4px; 
+            }
+
+.skills-title{
+  color: #000000
+             }
+
+footer{
+  background-color: rgb(0, 0, 0);
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  width: 100%;
+  padding-top: 6px;
+  padding-right: 1px;
+      }
+
+.social-media{
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  list-style-type: none
+
+                }
+
+.linkedin-icon{
+  display: inline;
+  width: 50px;
+  border-radius: 50%;
+              }
+      
+.facebook-icon{
+  display: inline;
+  width: 50px;
+  border-radius: 50%;
+         } 
+      
+.gmail-icon{
+  border-radius: 50%;
+  display: inline;
+  width: 4em;
+  height: 3.8em;
+      }
+      
+
+
+
+
+  
